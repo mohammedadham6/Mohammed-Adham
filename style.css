@@ -126,7 +126,7 @@ section {
   padding-right: 60px;
   margin-left:48px;
 @media only screen and (max-width: 600px) {
-  Div.social-icon a {
+  Div.social-icon  {
     margin-left:500px;
   }
 }
