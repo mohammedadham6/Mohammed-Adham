@@ -125,6 +125,11 @@ section {
   font-size: 3em;
   padding-right: 60px;
   margin-left:48px;
+@media only screen and (max-width: 600px) {
+  Div.social-icon a {
+    margin-left:310px;
+  }
+}
 }
 
 .title {
