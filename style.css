@@ -97,7 +97,7 @@ section {
   letter-spacing: 0.1em;
   margin-top: 10px;
   margin-bottom: 30px;
-  margin-left:5px;
+  margin-left:-5px;
 }
 
 .main-btn {
