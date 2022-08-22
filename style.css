@@ -63,7 +63,9 @@ section {
   @media (min-width: 1025px) {
     body {
    width:2500px;
+  }
    }
+
 }
  
   }
