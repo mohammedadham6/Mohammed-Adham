@@ -63,6 +63,7 @@ section {
   @media only screen and (max-width: 600px) {
   body {
     Width: 1000px;
+    min-height: 2000px;
   }
 }
   
