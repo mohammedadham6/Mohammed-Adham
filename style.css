@@ -60,7 +60,11 @@ section {
   background-position: center;
   background-attachment: fixed;
   background-repeat:no-repeat;
-  
+  @media only screen and (max-width: 600px) {
+  body {
+    Width: 1000px;
+  }
+}
   
 }
 
