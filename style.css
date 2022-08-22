@@ -60,8 +60,7 @@ section {
   background-position: center;
   background-attachment: fixed;
   background-repeat:no-repeat;
-  @media only screen and (max-width: 600px) {
-  body {
+  @media screen and (min-width: 480px) {
     Width: 1000px;
     min-height: 2800px;
     display: flex;
