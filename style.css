@@ -63,13 +63,7 @@ section {
   @media screen and (min-width: 480px) {
     Width: 1000px;
     min-height: 2800px;
-    display: flex;
-  align-items: center;
-  background:url("/Ocean.jpg");
-  background-size:cover;
-  background-position: center;
-  background-attachment: fixed;
-  background-repeat:no-repeat;
+    
   }
 }
   
