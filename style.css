@@ -51,8 +51,8 @@ section {
 }
 
 .main {
-  width:1000px;
-  min-height: 2000px;
+  width:100%;
+  min-height:100%;
   display: flex;
   align-items: center;
   background:url("/Ocean.jpg");
