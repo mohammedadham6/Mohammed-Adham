@@ -226,3 +226,7 @@ h4 {
 .fa-brands fa-linkedin{
   color: #ff0066
 }
+.flex-dir{
+  display:flex;
+  flex-direction:row;
+}
